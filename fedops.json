@@ -1,0 +1,11 @@
+{
+    "appName": "tdd_poker",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "tdd_poker"
+    ]
+  }
