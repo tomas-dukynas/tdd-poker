@@ -10,8 +10,8 @@
   "scripts": {
     "start": "yoshi start",
     "build": "yoshi build",
-    "test": "yoshi test",
-    "lint": "yoshi lint",
+    "test": "yoshi test --watch",
+    "lint": "yoshi lint --fix",
     "posttest": "npm run lint"
   },
   "husky": {

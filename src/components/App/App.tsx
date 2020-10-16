@@ -1,6 +1,6 @@
 import React from 'react';
 import s from './App.scss';
-import texasHoldem from './TexasHoldem';
+import texasHoldem from './texasHoldem';
 
 class App extends React.Component {
   render() {
